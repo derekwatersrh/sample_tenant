@@ -10,4 +10,4 @@
 
     - name: Print another message
       ansible.builtin.debug:
-        msg: "This is an even newer test"
+        msg: "This is a test"
